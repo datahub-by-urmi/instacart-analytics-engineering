@@ -1,12 +1,7 @@
 The Instacart dataset is too large to store directly in this repository.
 
-Download it from:
+Download the dataset from Kaggle and place the files inside the data/ directory.
+https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset?resource=download
 
 
-Place the following files inside the data/ folder:
 
-orders.csv
-order_products.csv
-products.csv
-aisles.csv
-departments.csv
